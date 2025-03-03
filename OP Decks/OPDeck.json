@@ -1,0 +1,18 @@
+{
+	"id": "OPDeck",
+	"name": "OP Decks",
+	"display_name": "JA",
+	"author": ["John Actual"],
+	"description": "A collections of Decks and that will make you feel awesome",
+	"prefix": "opdeck",
+	"main_file": "OPdeck.lua",
+	"priority": 0,
+	"badge_colour": "#ffffff",
+	"badge_text_colour": "#000000",
+	"version": "0.2.1",
+	"dependencies": [
+        "Steamodded (>=1.*)",
+		"Lovely (>=0.6)"
+    ]
+
+}

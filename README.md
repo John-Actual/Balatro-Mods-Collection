@@ -13,3 +13,12 @@ Every card is lucky and you start with a negative lucky cat
 Start with 1.0e71 dollars
 #### Perkeo deck
 Start with Perkeo
+---
+## Challege Decks
+Challenge Decks
+Not in the challenges tab
+Probably not that challenging
+### Decks
+#### Stone Deck
+every card is stone, every non stone card is debuffed on scoring
+---

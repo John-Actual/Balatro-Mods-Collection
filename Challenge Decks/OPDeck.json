@@ -1,0 +1,18 @@
+{
+	"id": "challengeDecks",
+	"name": "Challenge Decks",
+	"display_name": "JA",
+	"author": ["John Actual"],
+	"description": "Some challenge(?) decks I made",
+	"prefix": "chaldeck",
+	"main_file": "chaldeck.lua",
+	"priority": 0,
+	"badge_colour": "#ffffff",
+	"badge_text_colour": "#000000",
+	"version": "0.2.1",
+	"dependencies": [
+        "Steamodded (>=1.*)",
+		"Lovely (>=0.6)"
+    ]
+
+}
